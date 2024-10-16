@@ -12,3 +12,9 @@
 1. Pizza
 2. nudel
 3. soup
+ 
+### lieblingsessen 2
+
+1. rice
+2. kartoffel 
+3. meat
